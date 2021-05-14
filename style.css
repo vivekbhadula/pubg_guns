@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.navbar {
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+}
+
+.container-fluid {
+    padding: 1% 4%;
+}
+
+.brand-logo {
+    font-size: 3rem;
+    color: rgb(255, 166, 0);
+}
+
+.title-image {
+    position: relative;
+    padding-top: 5rem;
+    height: 75%;
+    width: 100%;
+}
