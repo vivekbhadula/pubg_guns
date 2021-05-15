@@ -7,20 +7,48 @@ html {
     font-size: 62.5%;
 }
 
+/* 1st page */
+
+
+.container-fluid {
+    padding: 1% 4%;
+}
+
+/* Nav Bar Starts page1 */
+
 .navbar {
     position: fixed;
     z-index: 10;
     width: 100%;
 }
 
-.container-fluid {
-    padding: 1% 4%;
-}
-
 .brand-logo {
     font-size: 3rem;
     color: rgb(255, 166, 0);
 }
+
+.nav-item {
+    padding: 0 18px;
+}
+  
+.nav-link {
+    font-size: 1.8rem;
+}
+
+.dropdown-menu {
+    background-color: rgb(29, 27, 27);
+    border-radius: 5%;
+}
+
+.dropdown-item {
+    font-size: 1.6rem;
+    text-align: left;
+    color: white;
+    letter-spacing: .1rem;
+    padding: 1rem 3rem;
+}
+
+/* Title image starts */
 
 .title-image {
     position: relative;
