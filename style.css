@@ -68,6 +68,11 @@ h2 {
     padding-bottom: 2%;
 }
 
+.title-hr {
+    padding-bottom: 10rem;
+    color: white;
+}
+
 
 /* .flip-card {
     background-color: transparent;
@@ -121,8 +126,8 @@ h3 {
     font-size: 3rem;
 }
 
-.card-image {
-    height: 25rem;
+.scarl {
+    height: 100rem;
 }
 
 p {
