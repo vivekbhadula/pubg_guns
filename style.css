@@ -93,3 +93,20 @@ p {
     height: 30rem;
 }
 
+.white-section {
+    background-color: rgb(243, 47, 80);
+    text-align: center;
+    padding: 3%;
+    color: white;
+    font-size: 5rem;
+}
+
+.social-icon {
+    margin: 3rem 1.5rem;
+    font-size: 2rem;
+}
+
+.social-icon:hover {
+    font-size: 2.4rem;
+    cursor: pointer;
+}
