@@ -59,9 +59,13 @@ html {
 }
 
 h2 {
+    /* display: inline-block; */
     font-size: 4rem;
-    padding-top: 2%;
+    padding: 2%;
     text-align: center;
+    font-weight: bolder;
+    border: 2px solid #fc5404;
+    background-color: #fc5404;
 }
 
 .row {
@@ -83,6 +87,7 @@ h2 {
 h3 {
     text-align: center;
     font-size: 3rem;
+    color: #f98404;
 }
 
 p {
@@ -109,4 +114,14 @@ p {
 .social-icon:hover {
     font-size: 2.4rem;
     cursor: pointer;
+}
+
+@media (max-width: 998px) {
+    h2 {
+        display: block;
+    }
+
+    html {
+        font-size: 50%;
+    }
 }
