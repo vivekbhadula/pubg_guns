@@ -12,5 +12,5 @@ The information includes : <br/>
 7. Types of Stock the gun can be equiped with<br/>
 <br/>
 <br/>
-The website is made using HTML, CSS and Bootstrap.
+The website is made using HTML, CSS and Bootstrap.<br/>
 Copyrights : Vivek Bhadula
