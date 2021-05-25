@@ -126,7 +126,8 @@ ul {
 /* Footer Section */
 
 .white-section {
-    background-color: rgb(29, 27, 27);
+    /* Checking for published web */
+    background-color: rgb(31, 29, 29); 
     text-align: center;
     padding: 1%;
 }
