@@ -1,6 +1,6 @@
 # PUBG_Guns
 
-This is a website where you can get information about the attachments of a gun. The guns are from the game "PUBG-Mobile".
+This is a responsive website where you can get information about the attachments of a gun. The guns are from the game "PUBG-Mobile".
 <br/>
 The information includes : <br/>
 1. Type of Ammo <br/>
